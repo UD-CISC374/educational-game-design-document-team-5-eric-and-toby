@@ -49,8 +49,8 @@ Elementary school and middle school computer labs during free time
 *Remember, Learning Objectives are NOT simply topics. They are statements of observable behavior that a learner can do after the learning experience. You cannot observe someone "understanding" or "knowing" something.*
 
 - Students will be able to depict fractions as groups of different objects.
-- *Short Name*: *Formal Learning Objective #2*
-- *Short Name*: *Formal Learning Objective #3*
+- Students will be able to select the correct numerical equivalent to an image showing a fraction.
+- Students will be able to select the correct image to depict a numerical fraction.
 
 ## Prerequisite Knowledge
 
