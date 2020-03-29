@@ -103,7 +103,7 @@ Single player at a time, mouse interaction
 - Make as many groups as possible within time:
     - Description: Once the player selects a grouping of sheep matching the fraction, the sheep are removed from the board and new sheep are added at the top
     - Alignment: Gives incentive to make groups
-- *etc.*
+
 
 # Procedures/Actions
 
@@ -198,14 +198,18 @@ and simple shapes. Relaxing music, calm environments, and encouraging sounds and
 *Game region/phase/time are ways of designating a particularly important place in the game.*
 
 - Music List (Ambient sound)
-  - *Game region/phase/time*: *Example 1*, *Example 2*
-  - *Game region/phase/time*: *Example 3*, *Example 4*
+  - Title screen music 
+  - Main menu music
+  - Game play music 
+  - Game over music 
+  - multiplier music 
   
 *Game Interactions are things that trigger SFX, like character movement, hitting a spiky enemy, collecting a coin.*
 
 - Sound List (SFX)
-  - *Game Interaction*: *Example 1*, *Example 2*
-  - *Game Interaction*: *Example 3*, *Example 4*
+  - Succesful matches
+  - Unsuccessful matches 
+  - Sheep baa upon clicking 
 
 
 # Metadata
