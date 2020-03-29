@@ -105,16 +105,24 @@ Single player at a time, keyboard and mouse interaction
 
 # Procedures/Actions
 
-*Describe the control scheme and what actions a user can take in the game.*
+Left click: click and hold on a sheep to pick it up and move it elsewhere on the board.
+All other sheep in the row will then move over 1 and the sheep will move the rest of 
+them over. 
+Right click: when right clicking on a selected group of sheep, the game will then see
+if the correct fraction can be made out of it. If the fraction is correct, then the sheep will 
+be removed and the player will gain points + time. If not, the player will lose time, a noise will sound,
+and play resumes. 
 
 
 # Rules
 
-*What resources are available to the player that they make use of?  How does this affect gameplay? How are these resources finite?*
-
+There will be both time and score in this game. From the moment it starts, the timer 
+will begin to tick down. If it reaches 0, the game is over and your score is presented.
+Players gain additional time by making the correct fraction, shown on screen. Players will
+lose time if the fraction they selected is incorrect and over time. 
 # Objects/Entities
 
-*What other things are in the world that you need to design? These may or may not directly translate to actual objects and classes.*
+Sheep: differently colored, used to represent the fractions the player must meet.
 
 ## Core Gameplay Mechanics (Detailed)
 
@@ -124,10 +132,9 @@ Single player at a time, keyboard and mouse interaction
 
     
 ## Feedback
-
-*Explicitly describe what visual/audio/animation indicators there are that give players feedback on their progress towards their gameplay objectives (and ideally the learning objectives).*
-
-*Describe what longer-term feedback you detect and give that guides the player in their learning and lets them know how they are doing in regards to the learning objectives.*
+As the player gets more and more matches quickly and accurately, their score multiplyer will increase. Additional score will be 
+accompanied by sound effects cues and bonus time granted by successful matches. If the player cant find a match over 
+a certain period of time. A glow will appear on sheep that can be swapped to make matches. 
 
 # Story and Gameplay
 
