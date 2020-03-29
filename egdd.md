@@ -157,8 +157,9 @@ The content and gameplay are presented alongside each other, so as the player le
 they are also instinctively learning about fractions and thier representation. 
 
 ## Story (Brief)
-
-*The Summary or TL;DR version of below*
+You are an apprentice shepherder who is taking over a flock from an old master. You want 
+to be the best sheep sheerer alive, and deliver the highest quality wool possible, as it 
+is your life goal. 
 
 ## Storyboarding
 
