@@ -10,9 +10,9 @@
 - *Influence #1*:
   - Medium: *(Television, Games, Literature, Movies, etc.)*
   - Explanation: *In one paragraph or less, explain why this is an influence.*
-- *Influence #2*:
-  - Medium: *(Television, Games, Literature, Movies, etc.)*
-  - Explanation: *In one paragraph or less, explain why this is an influence.*
+- Monument Valley:
+  - Medium: Phone game
+  - Explanation: We were inspired by the clean, colorful, and charming appearance of this game. The design of its protagonist also inspired our protagonist's triangular shape.
 - Butser Ancient Farm:
   - Medium: Experimental archaeology site and museum
   - Explanation: While researching an alternate idea, we discovered this museum. Its recreation of Iron Age buildings and farm animals inspired the setting of our game.
