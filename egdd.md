@@ -134,17 +134,25 @@ Sheep: differently colored, used to represent the fractions the player must meet
 ## Feedback
 As the player gets more and more matches quickly and accurately, their score multiplyer will increase. Additional score will be 
 accompanied by sound effects cues and bonus time granted by successful matches. If the player cant find a match over 
-a certain period of time. A glow will appear on sheep that can be swapped to make matches. 
+a certain period of time. A glow will appear on sheep that can be swapped to make matches. Additional score can be spent on items
+to customize player appearance and potentially open new game modes and modifiers. 
 
 # Story and Gameplay
 
 ## Presentation of Rules
 
-*Briefly describe how the player will learn the gameplay mechanics. Avoid using walls of text, since people will not read them. Think instead of natural ways of teaching mechanics iteratively and slowly.*
+Upon first loading the game, the player character will be brought into a scene where they are shepherding with a "master" shepherder. The "master"
+will be a computer controlled character, who will first go to the fractional representation, and then say a speach bubble 
+representing the colored sheep fraction that it represents. He will then go into the sheep pen and move some around until he has the 
+correct fraction and remove it. Then, he will get the player and have them do the same. He will instruct them through moving their first sheep 
+with left click and removing them with right click. Then, he will go to an advisory role for the rest of the game, 
+helping stuck players by illuminating potential matches and giving encouraging noices when you are doing well. 
+
 
 ## Presentation of Content
 
-*Briefly describe how the player will be taught the core material they are meant to learn. Avoid using walls of text, since people will not read them. Think instead of natural ways of teaching material iteratively and slowly.*
+The content and gameplay are presented alongside each other, so as the player learns the rules of the game,
+they are also instinctively learning about fractions and thier representation. 
 
 ## Story (Brief)
 
