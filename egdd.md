@@ -94,12 +94,12 @@ Single player at a time, keyboard interaction (arrow keys)
 
 # Gameplay Objectives
 
-- *Primary Objective #1*:
-    - Description: *Description*
-    - Alignment: *Describe how this aligns with one or more learning objectives*
-- *Primary Objective #2*:
-    - Description: *Description*
-    - Alignment: *Describe how this aligns with one or more learning objectives*
+- Group sheep:
+    - Description: Group sheep according to fraction given by game
+    - Alignment: Students must select a grouping of sheep that matches the fraction given by the game
+- Make as many groups as possible within time:
+    - Description: Once the player selects a grouping of sheep matching the fraction, the sheep are removed from the board and new sheep are added at the top
+    - Alignment: Gives incentive to make groups
 - *etc.*
 
 # Procedures/Actions
