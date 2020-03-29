@@ -4,6 +4,7 @@
 
 *A one sentence pitch for your game. Pretend that your were pitching your game to a executive going to the elevator. You have less than 60 Seconds. Check [this resource](http://www.gameacademy.com/perfecting-indie-games-elevator-pitch/) for more information.*
 
+
 ## Influences (Brief)
 
 - *Influence #1*:
@@ -12,9 +13,10 @@
 - *Influence #2*:
   - Medium: *(Television, Games, Literature, Movies, etc.)*
   - Explanation: *In one paragraph or less, explain why this is an influence.*
-- *Influence #3*:
-  - Medium: *(Television, Games, Literature, Movies, etc.)*
-  - Explanation: *In one paragraph or less, explain why this is an influence.*
+- Butser Ancient Farm:
+  - Medium: Experimental archaeology site and museum
+  - Explanation: While researching an alternate idea, we discovered this museum. Its recreation of Iron Age buildings and farm animals inspired the setting of our game.
+
 
 ## Core Gameplay Mechanics (Brief)
 
