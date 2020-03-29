@@ -118,7 +118,7 @@ Single player at a time, keyboard interaction (arrow keys)
 
 ## Core Gameplay Mechanics (Detailed)
 
-- *Core Gameplay Mechanic #1*: *Describe in 2 paragraphs or less, along with how it generally works*
+- Sheep repositioning: Player clicks and drags one sheep across the board to swap its position with other sheep. The player's selected sheep will follow the mouse cursor, and when it overlaps with a different sheep, the second sheep will swap into the empty space left by the selected sheep.
 - *Core Gameplay Mechanic #2*: *Describe in 2 paragraphs or less, along with how it generally works*
 - *Core Gameplay Mechanic #3*: *Describe in 2 paragraphs or less, along with how it generally works*
 
