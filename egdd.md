@@ -82,7 +82,7 @@ Students will be given a pre/post multiple-choice test where they are asked to e
 ## Player Interaction Pattern
 
 *Describe how people play your game, how many players are involved at once, how they interact with the system works, etc.*
-Single player at a time, keyboard interaction (arrow keys)
+Single player at a time, keyboard and mouse interaction
 
 ## Player Modes
 
@@ -90,7 +90,7 @@ Single player at a time, keyboard interaction (arrow keys)
 
 - Start menu: Has buttons "tutorial" and "play game", each takes player to that gameplay mode when clicked
 - Tutorial mode: Simple text descriptions of gameplay with corresponding images, progresses to next section when player clicks, returns to main menu at the end
-- Gameplay: 
+- Gameplay: Board filled with sheep, with scorecard, time remaining, and desired fraction displayed to the side. When time remaining is 0, it takes the player to the Game end screen.
 - Game end: Displays final score, "main menu" button that takes player back to main menu when clicked
 
 # Gameplay Objectives
@@ -119,7 +119,7 @@ Single player at a time, keyboard interaction (arrow keys)
 ## Core Gameplay Mechanics (Detailed)
 
 - Sheep repositioning: Player clicks and drags one sheep across the board to swap its position with other sheep. The player's selected sheep will follow the mouse cursor, and when it overlaps with a different sheep, the second sheep will swap into the empty space left by the selected sheep.
-- *Core Gameplay Mechanic #2*: *Describe in 2 paragraphs or less, along with how it generally works*
+- Group selection: Player left-clicks on multiple adjacent sheep to select them. Player right-clicks when they think they have a group selected that matches the fraction. If correct, the sheep disappear and the player's score is incremented by 100. If incorrect, the game gives the player a "Try again!" message, and the timer is decreased by a short period of time.
 - *Core Gameplay Mechanic #3*: *Describe in 2 paragraphs or less, along with how it generally works*
 
     
