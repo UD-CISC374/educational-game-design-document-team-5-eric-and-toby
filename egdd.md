@@ -158,19 +158,20 @@ they are also instinctively learning about fractions and thier representation.
 
 ## Story (Brief)
 You are an apprentice shepherder who is taking over a flock from an old master. You want 
-to be the best sheep sheerer alive, and deliver the highest quality wool possible, as it 
+to be the best sheep shearer alive, and deliver the highest quality wool possible, as it 
 is your life goal. 
 
 ## Storyboarding
 
 *Go into as much detail as needs be to visually convey the Dynamics of your game. Be detailed. Create storyboards and freeze frame images that concisely capture important key elements of your game. You are strongly recommended to sketch pictures on paper and embed them here. Be sure make it clear how previously-described mechanics come through in the dynamics.*
+![alt text](https://cdn.discordapp.com/attachments/631892830427807764/693932016231514142/unknown.png "Tutorial")
 
 # Assets Needed
 
-## Aethestics
+## Aesthetics
 
-The Aethitics of our game will be one of a calming, relaxing atmosphere. Lots of bright colors 
-and simple shapes. Relaxing music, calm environemnts, and encouraging sounds and music even when you make mistakes. 
+The Aesthetics of our game will be one of a calming, relaxing atmosphere. Lots of bright colors 
+and simple shapes. Relaxing music, calm environments, and encouraging sounds and music even when you make mistakes. 
 
 ## Graphical
 
