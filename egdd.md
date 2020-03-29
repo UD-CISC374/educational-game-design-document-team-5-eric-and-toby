@@ -37,6 +37,7 @@
 ## Target Audiences
 
 *Who are your learners?*
+Elementary school students in grades 3 through 6
 
 ## Target Contexts
 
