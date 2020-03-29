@@ -176,17 +176,16 @@ and simple shapes. Relaxing music, calm environments, and encouraging sounds and
 ## Graphical
 
 - Characters List
-  - *Characters 1*
-  - *Characters 2*
-  - *...*
+  - Player character 
+  - Old master
+  - Sheep
 - Textures:
-  - *Texture 1*
-  - *Texture 2*
-  - *...*
+  - Sheep textures
+  - Player textures (hat, clothes, cape, pants)
 - Environment Art/Textures:
-  - *Environment Texture 1*
-  - *Environment Texture 2*
-  - *...*
+  - Background 
+  - Sheep pen
+  - Fraction representation + counters 
 
 
 ## Audio
