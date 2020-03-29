@@ -57,6 +57,7 @@ Elementary school and middle school computer labs during free time
 *What do they need to know prior to trying this game?*
 
 - Students must be able to use the arrow keys and letter keys on a keyboard.
+- Students must be able to use a computer mouse.
 - Students must be able to define a fraction.
 
 ## Assessment Measures
@@ -105,6 +106,7 @@ Single player at a time, keyboard interaction (arrow keys)
 # Procedures/Actions
 
 *Describe the control scheme and what actions a user can take in the game.*
+
 
 # Rules
 
