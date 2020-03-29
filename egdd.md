@@ -46,7 +46,7 @@
 
 *Remember, Learning Objectives are NOT simply topics. They are statements of observable behavior that a learner can do after the learning experience. You cannot observe someone "understanding" or "knowing" something.*
 
-- *Short Name*: *Formal Learning Objective #1*
+- Students will be able to depict fractions as groups of different objects.
 - *Short Name*: *Formal Learning Objective #2*
 - *Short Name*: *Formal Learning Objective #3*
 
