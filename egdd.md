@@ -70,9 +70,9 @@ Students will be given a pre/post multiple-choice test where they are asked to e
 
 *Give some reasons why this game is not like every other game out there. Whether the learning objective is unique, the gameplay mechanics are new, or what. You should persuade the reader that your game is novel and worthy of development. Consider arguments that would be persuasive to a Venture Capitalist, Teacher, or Researcher. These might be focused on learning needs, too.*
 
-- *Reason #1*
-- *Reason #2*
-- *Reason #3*
+- Popular game mechanic used for education
+- Unusual setting
+- Fun and appealing art style
 - *Reason #4*
 - *etc.*
 
