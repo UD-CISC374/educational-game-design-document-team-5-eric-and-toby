@@ -164,7 +164,11 @@ is your life goal.
 ## Storyboarding
 
 *Go into as much detail as needs be to visually convey the Dynamics of your game. Be detailed. Create storyboards and freeze frame images that concisely capture important key elements of your game. You are strongly recommended to sketch pictures on paper and embed them here. Be sure make it clear how previously-described mechanics come through in the dynamics.*
+![alt text](https://media.discordapp.net/attachments/631892830427807764/693934980010868807/unknown.png "Start screen")
 ![alt text](https://cdn.discordapp.com/attachments/631892830427807764/693932016231514142/unknown.png "Tutorial")
+![alt text](https://media.discordapp.net/attachments/631892830427807764/693935046478004315/unknown.png "Main screen")
+![alt text](https://cdn.discordapp.com/attachments/631892830427807764/693924796270116894/image0.jpg "Gameplay")
+![alt text](https://media.discordapp.net/attachments/631892830427807764/693933437530144870/unknown.png "Endscreen")
 
 # Assets Needed
 
