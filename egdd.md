@@ -42,6 +42,7 @@ Elementary school students in grades 3 through 6
 ## Target Contexts
 
 *Describe what kinds of formal and informal learning contexts this will be used in (e.g., courses, k-12 computer labs during free time).*
+Elementary school and middle school computer labs during free time
 
 ## Learning Objectives
 
