@@ -169,7 +169,8 @@ is your life goal.
 
 ## Aethestics
 
-*Give a sense of the aesthetics of your game, the spirit and atmosphere. Use descriptive, evocative words that can help the reader understand the emotional response of your game.*
+The Aethitics of our game will be one of a calming, relaxing atmosphere. Lots of bright colors 
+and simple shapes. Relaxing music, calm environemnts, and encouraging sounds and music even when you make mistakes. 
 
 ## Graphical
 
