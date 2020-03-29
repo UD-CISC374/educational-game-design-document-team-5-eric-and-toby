@@ -1,16 +1,15 @@
 # Game Name
+Woolgathering
 
 ## Elevator Pitch
 
-*A one sentence pitch for your game. Pretend that your were pitching your game to a executive going to the elevator. You have less than 60 Seconds. Check [this resource](http://www.gameacademy.com/perfecting-indie-games-elevator-pitch/) for more information.*
+Heard sheep and make wool in this fast paced puzzle game designed to teach fractional representations to elementary school students. 
 
 
 
 ## Influences (Brief)
 
-- *Influence #1*:
-  - Medium: *(Television, Games, Literature, Movies, etc.)*
-  - Explanation: *In one paragraph or less, explain why this is an influence.*
+
 - Monument Valley:
   - Medium: Phone game
   - Explanation: We were inspired by the clean, colorful, and charming appearance of this game. The design of its protagonist also inspired our protagonist's triangular shape.
@@ -24,15 +23,20 @@
 *Give a very high-level description of any core gameplay mechanics*
 
 - *Gameplay Mechanic #1*
+Left click to move sheep and match them into a correct fractional form 
 - *Gameplay Mechanic #2*
+Right click to remove sheep that are thought to be in a correct fractional form,
+if correct, gain time and score, if incorrect, lose time
 - *Gameplay Mechanic #3*
-- *Gameplay Mechanic #4*
+Match more sheep correctly and quickly to build up a score multiplyer, use score
+to purchase items for player customization and for gameplay modifiers, possibly
 
 # Learning Aspects
 
 ## Learning Domains
 
-*Briefly list any and all of the disciplines and learning domains for this subject.*
+Elementary School Math Education 
+Fractional Representation 
 
 ## Target Audiences
 
@@ -74,15 +78,13 @@ Students will be given a pre/post multiple-choice test where they are asked to e
 - Popular game mechanic used for education
 - Unusual setting
 - Fun and appealing art style
-- *Reason #4*
-- *etc.*
 
 # Player Interaction Patterns and Modes
 
 ## Player Interaction Pattern
 
 *Describe how people play your game, how many players are involved at once, how they interact with the system works, etc.*
-Single player at a time, keyboard and mouse interaction
+Single player at a time, mouse interaction
 
 ## Player Modes
 
