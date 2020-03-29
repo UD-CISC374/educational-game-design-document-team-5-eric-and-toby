@@ -86,9 +86,10 @@ Students will be given a pre/post multiple-choice test where they are asked to e
 
 *Your game has one or more player modes. Describe each discrete mode, considering things like menus too. Generally describe the transitions between modes too.*
 
-- *Player mode #1*: *Description*
-- *Player mode #2*: *Description*
-- *etc.*
+- Start menu: Has buttons "tutorial" and "play game", each takes player to that gameplay mode when clicked
+- Tutorial mode: Simple text descriptions of gameplay with corresponding images, progresses to next section when player clicks, returns to main menu at the end
+- Gameplay:
+- Game end: Displays final score, "main menu" button that takes player back to main menu when clicked
 
 # Gameplay Objectives
 
