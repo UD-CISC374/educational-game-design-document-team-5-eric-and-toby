@@ -64,6 +64,7 @@ Elementary school and middle school computer labs during free time
 *Describe how the learning will be assessed, e.g., pre/post multiple-choice test, or SAT, or some other instrument.*
 
 *If proposing a new instrument, briefly and concisely list some example assessment questions.*
+Students will be given a pre/post multiple-choice test where they are asked to examine an image depiction of a fraction and pick the correct numerical equivalent.
 
 # What sets this project apart?
 
