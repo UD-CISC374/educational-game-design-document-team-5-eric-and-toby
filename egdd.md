@@ -81,6 +81,7 @@ Students will be given a pre/post multiple-choice test where they are asked to e
 ## Player Interaction Pattern
 
 *Describe how people play your game, how many players are involved at once, how they interact with the system works, etc.*
+Single player at a time, keyboard interaction (arrow keys)
 
 ## Player Modes
 
@@ -88,7 +89,7 @@ Students will be given a pre/post multiple-choice test where they are asked to e
 
 - Start menu: Has buttons "tutorial" and "play game", each takes player to that gameplay mode when clicked
 - Tutorial mode: Simple text descriptions of gameplay with corresponding images, progresses to next section when player clicks, returns to main menu at the end
-- Gameplay:
+- Gameplay: 
 - Game end: Displays final score, "main menu" button that takes player back to main menu when clicked
 
 # Gameplay Objectives
