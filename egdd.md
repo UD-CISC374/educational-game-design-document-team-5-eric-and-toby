@@ -5,6 +5,7 @@
 *A one sentence pitch for your game. Pretend that your were pitching your game to a executive going to the elevator. You have less than 60 Seconds. Check [this resource](http://www.gameacademy.com/perfecting-indie-games-elevator-pitch/) for more information.*
 
 
+
 ## Influences (Brief)
 
 - *Influence #1*:
@@ -53,8 +54,8 @@
 
 *What do they need to know prior to trying this game?*
 
-- *Prerequisite Learning Objective #1*
-- *Prerequisite Learning Objective #2*
+- Students must be able to use the arrow keys and letter keys on a keyboard.
+- Students must be able to define a fraction.
 
 ## Assessment Measures
 
